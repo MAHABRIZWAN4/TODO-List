@@ -1,5 +1,5 @@
 {
-  "name": "todo-list",
+  "name": "m4-todo-list",
   "version": "1.0.0",
   "description": "Developing a TODO list using TypeScript, enabling efficient task management with features like task addition, deletion, and completion tracking. TypeScript ensures type safety and enhances code readability, making the TODO list robust and user-friendly.",
   "main": "index.js",
